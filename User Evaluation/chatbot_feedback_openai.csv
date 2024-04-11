@@ -1,0 +1,26 @@
+Response ID,Helpfulness Rating,Inaccurate Flag,Relevance Rating,Satisfaction Rating
+response_001,5,False,4,5
+response_002,5,False,5,5
+response_003,5,False,4,4
+response_004,5,False,5,5
+response_005,5,False,4,5
+response_006,4,False,5,5
+response_007,5,False,5,5
+response_008,5,False,5,4
+response_009,3,True,3,3
+response_010,5,True,4,5
+response_011,5,False,5,5
+response_012,5,False,5,4
+response_013,5,False,5,5
+response_014,4,False,4,4
+response_015,3,False,3,3
+response_016,5,False,5,4
+response_017,3,True,2,3
+response_018,5,False,4,5
+response_019,5,False,5,5
+response_020,4,False,4,4
+response_021,4,False,5,4
+response_022,5,False,4,4
+response_023,5,False,5,5
+response_024,3,False,4,4
+response_025,5,False,5,4
