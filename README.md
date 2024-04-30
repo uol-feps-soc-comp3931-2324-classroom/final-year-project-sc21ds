@@ -21,5 +21,5 @@ Welcome to the main repository for my project! This repository houses code and r
 
 ### 2. qna_generator.py: Code for generating question and answer pairs (Q&A).
 
-## How to Use
-Each folder contains its own README file with detailed information on each component.
+## Guide
+Each folder contains its own README file with detailed information on each component. All code written were compiled on Google Colab Pro as it required high computational resources.
