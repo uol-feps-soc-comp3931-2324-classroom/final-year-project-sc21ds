@@ -18,9 +18,11 @@ Welcome to the main repository for my project! This repository houses code and r
    
 
 ## Additional Files
-### 1. web_scrapper.ipynb: Python script for web scraping.
+### 1. web_scrapper.ipynb
+Python script for web scraping.
 
-### 2. q&a_generator.py: Code for generating question and answer pairs (Q&A).
+### 2. q&a_generator.py
+Code for generating question and answer pairs (Q&A).
 
 
 ## Guide
