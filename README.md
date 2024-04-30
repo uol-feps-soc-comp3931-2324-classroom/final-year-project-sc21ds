@@ -15,11 +15,13 @@ Welcome to the main repository for my project! This repository houses code and r
    
 ### 4. User Evaluation
    Stores all results from user evaluations along with consent forms.
+   
 
 ## Additional Files
 ### 1. web_scrapper.ipynb: Python script for web scraping.
 
 ### 2. q&a_generator.py: Code for generating question and answer pairs (Q&A).
+
 
 ## Guide
 Each folder contains its own README file with detailed information on each component. All code written were compiled on Google Colab Pro as it required high computational resources.
