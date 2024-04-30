@@ -17,9 +17,9 @@ Welcome to the main repository for my project! This repository houses code and r
    Houses code for all three trial runs of the Seq2Seq model.
 
 ## Additional Files
-### 1. web_scrapper.py: Python script for web scraping.
+### 1. web_scrapper.ipynb: Python script for web scraping.
 
-### 2. qna_generator.py: Code for generating question and answer pairs (Q&A).
+### 2. q&a_generator.py: Code for generating question and answer pairs (Q&A).
 
 ## Guide
 Each folder contains its own README file with detailed information on each component. All code written were compiled on Google Colab Pro as it required high computational resources.
